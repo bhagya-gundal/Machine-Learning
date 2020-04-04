@@ -1,8 +1,15 @@
 # Machine-Learning---Data-Science
 This repository consists of various Machine Learning projects which includes algorithms like Regression, Classification and Clustering.
-System requirement for accessing the contents would be Python3, Jupyter Notebook, Google Colab.
 
-# File information:
+## Getting Started
+You will require a local instance of Python3 running on your machine
+
+## Installing
+Clone the repository on your local machine
+Once cloned cd into the folder and open the files in your favourite editor (Jupyter Notebook, Google Colab)
+Once all the packages are installed run files
+
+## File Information:
 ####   1. Gene Sort.ipynb
 
   This python notebooks walk you through the Genetic Algorithm for sorting along with Bubble Sort and Mergesort. In this file results are compared against each other. 
