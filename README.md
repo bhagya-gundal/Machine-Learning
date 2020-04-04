@@ -10,3 +10,11 @@ File information:
 2. Formula 1 Races.ipynb
 
   Using Probability theory, the prediction are made for next winner
+
+3. Timeseries Analysis.ipynb
+
+Here, time series analysis is used to predict the stock exchange values for Microsoft
+
+4. WebScrapping.ipynb
+   
+   Sport Analysis for FIFA World Cup using BeautifulSoap Package in Python
