@@ -6,6 +6,7 @@ File information:
 1. Gene Sort.ipynb
 
   This python notebooks walk you through the Genetic Algorithm for sorting along with Bubble Sort and Mergesort. In this file results are compared against each other. 
+
 2. Formula 1 Races.ipynb
 
   Using Probability theory, the prediction are made for next winner
