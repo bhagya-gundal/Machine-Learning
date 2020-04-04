@@ -5,9 +5,11 @@ This repository consists of various Machine Learning projects which includes alg
 You will require a local instance of Python3 running on your machine
 
 ## Installing
-Clone the repository on your local machine
-Once cloned cd into the folder and open the files in your favourite editor (Jupyter Notebook, Google Colab)
-Once all the packages are installed run files
+  Clone the repository on your local machine
+  
+  Once cloned cd into the folder and open the files in your favourite editor (Jupyter Notebook, Google Colab)
+  
+  Once all the packages are installed run files
 
 ## File Information:
 ####   1. Gene Sort.ipynb
